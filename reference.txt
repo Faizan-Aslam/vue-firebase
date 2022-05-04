@@ -1,0 +1,3 @@
+rendering, conditional rendering, data methods, click events
+
+other mouse events, v-for, binding attributes, dynamic classes
